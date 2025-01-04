@@ -1,3 +1,9 @@
+Note: 
+    1. In the env file config the database connection in your local
+    2. database file provided in the root of the project directory
+    3. you may register and login your self navigate throw leads route and use the lead management
+    4. Also root of the directory attached sample excel file spreadsheet imports
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
